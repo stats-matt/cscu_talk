@@ -1,0 +1,26 @@
+---
+title: "Title"
+title-slide-attributes:
+  data-background-image: ./logo.png
+  data-background-size: 15%
+  data-background-position: 0% 0%
+subtitle: "Cornell Statistical Consulting Unit <br> https://cscu.cornell.edu"
+institute: "" # email addres
+author: "" # name
+date: "" # date
+format: 
+  revealjs:
+    incremental: false
+    toc: true
+    theme: cscu.scss
+    toc-depth: 1
+    slide-number: true
+    logo: logo.png
+    margin: 0.2
+    chalkboard: true
+    fig.align: center
+    filters:
+      - ./center-images.lua
+---
+
+# Contents go here
