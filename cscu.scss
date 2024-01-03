@@ -34,3 +34,7 @@ $presentation-heading-color: #cc0000;
 #title-slide-attributes {
   data-background-image: "./logo.png";
 }
+
+.reveal .slide-number > a[href*='title-slide'] {
+  display: none;
+}

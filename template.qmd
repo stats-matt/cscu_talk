@@ -1,9 +1,9 @@
 ---
 title: "Title"
-title-slide-attributes:
-  data-background-image: ./logo.png
-  data-background-size: 15%
-  data-background-position: 0% 0%
+# title-slide-attributes:
+#   data-background-image: ./logo.png
+#   data-background-size: 15%
+#   data-background-position: 0% 0%
 subtitle: "Cornell Statistical Consulting Unit <br> https://cscu.cornell.edu"
 institute: "" # email addres
 author: "" # name
